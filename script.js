@@ -5,7 +5,7 @@ async function generate(){
 let text = document.getElementById("text").value;
 
 let response = await fetch(
-"https://api-inference.huggingface.co/models/YOUR_MODEL",
+"https://api-inference.huggingface.co/models/microsoft/speecht5_tts",
 {
 method:"POST",
 headers:{
