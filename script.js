@@ -7,7 +7,7 @@ let response = await fetch(
 {
 method:"POST",
 headers:{
-"Authorization":"Bearer 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",
+"Authorization":"Bearer hf_hf_gfZwpASApAKMrUvwaunGUOLwsdoZleYwoH",
 "Content-Type":"application/json"
 },
 body:JSON.stringify({inputs:text})
