@@ -1,5 +1,3 @@
-console.log('Hello');
-
 async function generate(){
 
 let text = document.getElementById("text").value;
