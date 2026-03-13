@@ -9,7 +9,7 @@ let response = await fetch(
 {
 method:"POST",
 headers:{
-"Authorization":"Bearer YOUR_TOKEN",
+"Authorization":"Bearer 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",
 "Content-Type":"application/json"
 },
 body:JSON.stringify({inputs:text})
